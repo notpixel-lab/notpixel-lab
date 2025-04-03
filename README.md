@@ -26,7 +26,7 @@ Welcome to my profile! I'm a passionate developer focused on creating impactful 
 
 ## 📫 How to reach me...
 - **Email**: [your-email@example.com](mailto:mrzban@gmail.com)
-- **Twitter**: [@yourTwitterHandle](https://twitter.com/yourTwitterHandle)
+
 
 
 
@@ -34,8 +34,3 @@ Welcome to my profile! I'm a passionate developer focused on creating impactful 
 
 **Feel free to reach out, let's collaborate and build something amazing together! 🚀**
 
-
-<!---
-notpixel-lab/notpixel-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
