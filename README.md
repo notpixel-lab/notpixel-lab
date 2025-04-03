@@ -25,7 +25,7 @@ Welcome to my profile! I'm a passionate developer focused on creating impactful 
 - **Interactive UI/UX Projects** with a focus on performance and creativity
 
 ## 📫 How to reach me...
-- **Email**: [your-email@example.com](mailto:mrzban@gmail.com)
+- **Email**: [](mailto:mrzban@gmail.com)
 
 
 
